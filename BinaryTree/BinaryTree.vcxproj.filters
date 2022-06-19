@@ -21,9 +21,15 @@
     <ClCompile Include="node.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="text_line.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="node.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="text_line.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
